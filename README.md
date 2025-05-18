@@ -1,79 +1,70 @@
-# 👋 Hi, I'm Vrajesh Patel
+<h1 align="center">Hi 👋, I'm Vrajesh Patel</h1>
+<h3 align="center">A passionate frontend developer and MERN enthusiast from India</h3>
 
-## 💻 A passionate frontend developer and full-stack enthusiast from India
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Vrajesh-1" alt="Vrajesh Patel" />
+  </a>
+</p>
 
----
+- 🌱 I’m currently pursuing a **Bachelor of Technology in Information Technology** at Charotar University of Science and Technology with a CGPA of 8.5.
 
-### 🔭 I’m currently working on  
-**Gurukul: Online Learning Platform**  
-A MERN-stack platform inspired by Google Classroom for managing courses, assignments, grades, and real-time announcements.  
-[Project link – Add your GitHub repo or deployed site here]
+- 📚 I have hands-on experience in **MERN Stack Development**, desktop GUI apps, and building scalable full-stack applications.
 
-### 👯 I’m looking to collaborate on  
-Full-stack and frontend projects using React, Node.js, and MongoDB  
-[Add specific project ideas or links if available]
+- 💻 My recent projects include:
+  - **Gurukul - Online Learning Platform**: A MERN-based system for course management, assignment submissions, and real-time communication.
+  - **Tkinter Desktop App**: Developed using Python and Oracle SQL with a user-friendly GUI for enhanced data interaction.
 
-### 🤝 I’m looking for help with  
-Advanced backend architecture and performance optimization in large-scale MERN applications  
-[Add any GitHub Issues or repositories if applicable]
+- 🏆 Certified with **Silver Elite** in NPTEL Database Management System and ranked in the **top 5%**.
 
-### 🌱 I’m currently learning  
-- React Ecosystem (Hooks, Router, Redux)  
-- MongoDB indexing and performance tuning  
-- DevOps basics: Docker, GitHub Actions
+- 🛠️ Currently learning advanced concepts in **React**, **MongoDB**, and **DevOps** tooling (GitHub Actions, Docker).
 
-### 💬 Ask me about  
-React, MERN stack, and Tkinter GUI apps
+- 📫 How to reach me: **22IT120@charusat.edu.in** | 📞 +91-9512110380
 
-### 📫 How to reach me  
-📧 22IT120@charusat.edu.in  
-📞 +91-9512110380
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/vrajesh-patel-058611268" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrajesh-patel" height="30" width="40" />
+  </a>
+  <a href="https://github.com/Vrajesh-1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Vrajesh-1" height="30" width="40" />
+  </a>
+</p>
 
-### 👨‍💻 All of my projects are available at  
-🌐 [https://github.com/Vrajesh-1](https://github.com/Vrajesh-1)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  </a>
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+</p>
 
-### 📝 I regularly write articles on  
-[Add blog/medium/hashnode/dev.to link if you start writing]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vrajesh-1&show_icons=true&locale=en&layout=compact" alt="vrajesh-patel" /></p>
 
-### 📄 Know about my experiences  
-🔗 [View Resume](mailto:22IT120@charusat.edu.in?subject=Requesting%20Resume%20of%20Vrajesh%20Patel)
-
-### ⚡ Fun fact  
-I think I am funny 😄
-
----
-
-## 🛠️ Skills
-
-### 👨‍💻 Programming Languages  
-`Python` `Java` `C++` `C` `JavaScript` `HTML5` `CSS3` `SQL`
-
-### 🌐 Frontend Development  
-`React.js` `HTML` `CSS` `JavaScript` `Tailwind CSS`
-
-### 🛠 Backend Development  
-`Node.js` `Express.js`
-
-### 🗄️ Databases  
-`MongoDB` `Oracle SQL`
-
-### 💻 Software & Tools  
-`VS Code` `Git` `GitHub` `Postman` `Windows` `Linux`
-
----
-
-## 📈 GitHub Stats
-
-![Vrajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vrajesh-1&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vrajesh-1&layout=compact&theme=github_dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vrajesh-1&theme=github-dark-blue)
-
----
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/22it120-vrajesh)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Vrajesh-1)
-
----
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vrajesh-1&show_icons=true&locale=en" alt="vrajesh-patel" /></p>
