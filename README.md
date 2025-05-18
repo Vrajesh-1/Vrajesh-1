@@ -19,7 +19,7 @@
 
 - 🛠️ Currently learning advanced concepts in **React**, **MongoDB**, and **DevOps** tooling (GitHub Actions, Docker).
 
-- 📫 How to reach me: **22IT120@charusat.edu.in** | 📞 +91-9512110380
+- 📫 How to reach me: **22IT120@charusat.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
